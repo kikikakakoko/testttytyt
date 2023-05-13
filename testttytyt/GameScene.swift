@@ -12,6 +12,7 @@ class GameScene: SKScene {
     
     private var label : SKLabelNode?
     private var spinnyNode : SKShapeNode?
+    var test = "test"
     
     override func didMove(to view: SKView) {
         
